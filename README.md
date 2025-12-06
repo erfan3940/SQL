@@ -1,5 +1,5 @@
 what i know about sql
-...SQL Fundamentals
+---SQL Fundamentals
 
 Understanding relational databases and table structures
 
@@ -9,7 +9,7 @@ Filtering, sorting, grouping, and aggregating data
 
 Using functions, expressions, and operators
 
-...Joins & Relationships
+---Joins & Relationships
 
 INNER, LEFT, RIGHT, FULL joins
 
@@ -17,7 +17,7 @@ INNER, LEFT, RIGHT, FULL joins
 
 Foreign keys and referential integrity
 
-...Database Design
+---Database Design
 
 Normalization principles
 
@@ -27,7 +27,7 @@ Designing tables with the right data types
 
 Indexing basics and performance considerations
 
-...CRUD Operations
+---CRUD Operations
 
 Creating, inserting, updating, and deleting records
 
@@ -35,7 +35,7 @@ Managing constraints (UNIQUE, PRIMARY KEY, NOT NULL, CHECK)
 
 Transactions and rollback/commit behavior
 
-...MySQL & PostgreSQL
+---MySQL & PostgreSQL
 
 Differences between MySQL and PostgreSQL
 
@@ -43,7 +43,7 @@ Using both database systems
 
 Working with MySQL Workbench and pgAdmin
 
-...Extras
+---Extras
 
 Stored procedures & views
 
