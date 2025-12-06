@@ -1,4 +1,4 @@
-what i know about SQL
+what i know about SQL in PostgreSQL and MySQL
 
 ⬇️ SQL Fundamentals
 
