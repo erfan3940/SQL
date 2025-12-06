@@ -1,4 +1,5 @@
 what i know about sql
+
 ⬇️ SQL Fundamentals
 
 Understanding relational databases and table structures
