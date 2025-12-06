@@ -1,4 +1,4 @@
-what i know about sql
+what i know about SQL
 
 ⬇️ SQL Fundamentals
 
